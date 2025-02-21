@@ -18,6 +18,6 @@ The film photographs were scanned to digitial images by the USGS in June 2009, a
 
 # Data sources
 1) Documentation for all Antarctic Single Frame Records: https://doi.org/10.5066/F7MW2FDP
-2) PGC repository of scanned photograph data: https://data.pgc.umn.edu/aerial/usgs/tma/photos/
+2) PGC repository of scanned photograph data: https://data.pgc.umn.edu/aerial/usgs/tma/
 
 This repository is under development.
