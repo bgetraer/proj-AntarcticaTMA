@@ -1,4 +1,5 @@
 # proj-AntarcticaTMA
+<font color="red">This repository represents an ongoing project and is under development.</font>
 Code and data for the analysis of Antarctic single frame trimetrogon aerial (TMA) photographs. Initial focus for this project is the Amundsen Sea Embayment, and flight lines which covered the ice shelf and lower ice stream of Pine Island Glacier in the late 1960's.
 
 ## Description of data 
@@ -19,5 +20,3 @@ The film photographs were scanned to digitial images by the USGS in June 2009, a
 # Data sources
 1) Documentation for all Antarctic Single Frame Records: https://doi.org/10.5066/F7MW2FDP
 2) PGC repository of scanned photograph data: https://data.pgc.umn.edu/aerial/usgs/tma/
-
-This repository is under development.
