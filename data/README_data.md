@@ -13,3 +13,4 @@ This directory contains datafiles for **proj-AntarcticaTMA**.
     ./interim/vector   Vector data (eg shapefiles)
     ./interim/raster   Raster data (eg image files)
 
+./temp   Temporary directory for data being transferred or downloaded.
