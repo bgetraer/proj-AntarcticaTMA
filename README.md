@@ -16,7 +16,6 @@ From the [USGS Earth Resources Observation and Science Center](https://www.usgs.
 The **Antarctic TMA** data are historical trimetrogon aerial photographs taken between 1946-2000. TMA photographs were taken as part of a series of U.S. based expeditions to Antarctica:
 - Operation Highjump (U.S. Navy, 1946-1947)
 - Operation Windmill (U.S. Navy, 1947-1948)
-- Ronne Antarctic Research Expedition (private, 1947–1948)
 - Operation Deep Freeze I-IV (U.S. Navy, 1955–1959)
 - Operation Deep Freeze 1960-present (U.S. Navy, 1960–present)
 
