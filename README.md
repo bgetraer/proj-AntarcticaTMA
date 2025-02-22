@@ -25,3 +25,6 @@ Photographs acquired before the mid-1970's are the only pre-satellite record of 
 # Data sources
 1) DOI for all Antarctic Single Frame Records and USGS documentation: https://doi.org/10.5066/F7MW2FDP
 2) PGC repository of scanned photograph data: https://data.pgc.umn.edu/aerial/usgs/tma/
+
+## Acknowledgments
+The structure of this repository was adapted from [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org).
