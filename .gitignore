@@ -1,3 +1,4 @@
-# exclude all raster files
+# exclude these files
 *.tif
-.env
+*.env
+*.pdf
