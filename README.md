@@ -23,7 +23,17 @@ Photographs acquired before the mid-1970's are the only pre-satellite record of 
 
 # Data sources
 1) DOI for all Antarctic Single Frame Records and USGS documentation: https://doi.org/10.5066/F7MW2FDP
-2) PGC repository of scanned photograph data: https://data.pgc.umn.edu/aerial/usgs/tma/
+2) PGC repository of scanned photograph data and meta-data: https://data.pgc.umn.edu/aerial/usgs/tma/
+3) USGS flight line maps: https://libraryguides.usgs.gov/antarcticresearch/aerialphotos
+
+# Other Antarctic single frame records
+Beyond the TMA records, additional operations in Antarctica produced photographic data of interest to pre-sattelite mapping.
+- Byrd's first expedition (private, 1928–1930)
+- Byrd's second expedition (private, 1934)
+- United States Antarctic Service Expedition (U.S. Navy, 1939–1941)
+- Ronne Antarctic Research Expedition (private, 1947–1948)
+
+These data are outside of the scope of this research project, and I have struggled to locate sources, persistent links, or documentation for them. Single frame photography from the year 1940, consistent with the United States Antarctic Service Expedition, are available on USGS Earth Explorer.
 
 ## Acknowledgments
 The structure of this repository was adapted from [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org).
