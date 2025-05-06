@@ -1,5 +1,6 @@
 clear
 
+<<<<<<< HEAD
 
 
 path_to_data = 'docs/*'; % the source path within remote tma where the data to be downloaded live
@@ -10,6 +11,11 @@ source = fullfile(source_repo,path_to_data);
 target = fullfile(target_repo,path_to_data);
 
 getPGCdata(path_to_data,proj_root,clobber)
+=======
+%clobber = 1;
+
+%getPGCdata(path_to_data,proj_root,clobber)
+>>>>>>> 3e91dbe (trying to fix problems)
 % This function checks existence of local files after confirming their existence on the server. The purpose of
 % this workflow is to allow for wildcards in the data paths, where we do not know if the local system has all 
 % matching files until we check.

@@ -37,3 +37,6 @@ These data are outside of the scope of this research project, and I have struggl
 
 ## Acknowledgments
 The structure of this repository was adapted from [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org).
+
+## Process
+- download flightline attributes into data/processed as a csv file
